@@ -1,6 +1,9 @@
 # the-river-chat
 a minimalist, retro-terminal chat room application built with Python and Tkinter. designed with a dark-web aesthetic, it features local socket connections, terminal-based commands, and an autonomous system bot. inspired by the film "unfriended".
 
+<img width="798" height="498" alt="login" src="https://github.com/user-attachments/assets/ef1a832d-6294-4e8c-84a2-303ce38f2ef2" />
+<img width="798" height="501" alt="test" src="https://github.com/user-attachments/assets/5705e606-74b6-4963-94d6-748431af48e0" />
+
 ## Features
 
 - **Custom Interface:** Borderless, draggable retro terminal UI.
